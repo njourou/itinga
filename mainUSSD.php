@@ -1,4 +1,5 @@
 <?php
+//AfricasTalkingGateway
 
 if(!empty($_POST)){
 	require_once('dbConnector.php');
